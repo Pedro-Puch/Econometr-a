@@ -1,2 +1,2 @@
-# Econometr-a
+# Econometría
 Curso Udemy 
