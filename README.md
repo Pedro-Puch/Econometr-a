@@ -1,0 +1,2 @@
+# Econometr-a
+Curso Udemy 
